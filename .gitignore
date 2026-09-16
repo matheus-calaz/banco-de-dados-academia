@@ -1,0 +1,16 @@
+# Configurações locais
+.env
+.vscode/
+.idea/
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+
+# Backups e exportações locais
+*.sql.gz
+*.bak
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
